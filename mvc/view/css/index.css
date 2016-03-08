@@ -1,0 +1,47 @@
+#logo{
+	padding: 25px;
+	font-size: 2.5em;
+	color: #8e44ad;
+}
+
+#logo-first-part{
+	font-weight: bold;
+}
+
+#login-box{
+	width: 30%;
+	margin: auto;
+	margin-top: 5%;
+}
+
+#login-form{	
+	background-color: #a66bbe;
+	padding: 20px;
+}
+
+#login-button{
+	background-color: #bdc3c7;
+	padding: 10px;
+	width: 30%;
+	margin: auto;
+	margin-top: 25px;
+	text-align: center;
+	cursor: pointer;
+}
+
+#login-button:hover{
+	background-color: #ecf0f1;
+	color: #8e44ad;
+}
+
+#gato{
+	width: 15%;	
+	float: right;
+	position: fixed;
+	bottom: 15px;
+	right: 15px;
+}
+
+#alert-login{
+	width: 70%;
+}
