@@ -14,7 +14,7 @@
 	<div id="content">
 
 		<link rel="stylesheet" type="text/css" href="mvc/view/css/index.css">
-		<script src="mvc/view/js/index.js"></script>
+		<script src="mvc/controller/js/index.js"></script>
 
 		<div id="login-box">
 
