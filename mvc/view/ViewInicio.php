@@ -2,7 +2,7 @@
 
 class ViewInicio{
 	public static function exibeInicio(){
-		echo "oi";
+		echo file_get_contents('../../mvc/view/pages/inicio.html');
 	}
 }
 
